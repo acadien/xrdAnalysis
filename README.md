@@ -1,0 +1,1 @@
+A selection of tools I used to analyze diffraction patterns, some of my first python code so its likely very ugly. Patterns were generated using the Fit2D tool. Raw data was generated at the Advanced Photon Source at Argonne National Labs.
